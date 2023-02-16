@@ -1,7 +1,5 @@
 # Baby-Emotion-Recognition.
-
 recognition the babies emotion from their crying.
-
 The audio clips were collected from the Internet and hospitals after obtaining the consent of the infant's parents.
 The ages of the infants ranged from six months to one year.
 The big challenge was getting the infant to show a specific feeling (this thing can't be controlled).
